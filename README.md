@@ -29,10 +29,9 @@ Hi, I am Priyam Soni and I am a flutter and web developer. I have expertise in f
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
                     
-                  ### Socials
+ ### Socials
                   
-                  
-                <p align="left">
+ <p align="left">
                           
                       <a href="https://discord.com/users/Priyamm#5570" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
@@ -48,5 +47,7 @@ Hi, I am Priyam Soni and I am a flutter and web developer. I have expertise in f
                           
                       <a href="https://www.twitter.com/priyaamm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitch.tv/priyammm05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges### Support Me<a
-                  href="https://www.buymeacoffee.com/priyammm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                      <a href="https://www.twitch.tv/priyammm05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+                      
+### Support Me
+<a href="https://www.buymeacoffee.com/priyammm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
