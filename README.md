@@ -1,10 +1,16 @@
 Hi 👋 My name is Priyam Soni
 ============================
 
-Flutter and Frontend Developer
+Flutter | Full-stack | Web3 Developer
 ------------------------------
 
-Hi, I am Priyam Soni and I am a flutter and web developer. I have expertise in flutter app development, backend integration and development. And I also have an interest in front-end development (frameworks like React.js), Python and Blockchain technology. I am enthusiastically looking forward to build interesting and innovative projects. Open for freelancing work. Happy to help out and connect. If you have any queries feel free to drop a message.
+I specialize in developing applications using Flutter, web technologies and web3. Software developer with a Bachelor's degree in Computer Science and proficiency in mobile app development using Flutter and Dart.
+
+Skilled in integrating APIs, testing, and deploying mobile applications, as well as working with Firebase and cloud computing services. Also knowledgeable in the MERN stack, data structures, and algorithms as well as Web3 and Blockchain technologies. 
+
+Has worked on various live and local projects, and has experience with remote internships and freelancing. Passionate about creating innovative solutions and contributing to team success.
+
+Open for freelancing work.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [priyam05soni@gmail.com](mailto:priyam05soni@gmail.com)
